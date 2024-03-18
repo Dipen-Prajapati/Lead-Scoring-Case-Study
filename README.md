@@ -1,7 +1,7 @@
 # Lead-Scoring-Case-Study
 
 ## Objective:
-Building a machine learning model and evaluating the model for Lead Score for an education company named X Education that sells online courses to industry professionals.
+Building a machine learning model and evaluating the model of Lead Score for an education company named X Education that sells online courses to industry professionals.
 
 ## Steps followed:
 - Understanding the data
